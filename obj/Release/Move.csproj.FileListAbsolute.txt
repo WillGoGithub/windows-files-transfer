@@ -1,0 +1,12 @@
+D:\D\其他\Move\Move\bin\Release\Move.exe.config
+D:\D\其他\Move\Move\bin\Release\Move.exe
+D:\D\其他\Move\Move\bin\Release\Move.pdb
+D:\D\其他\Move\Move\obj\Release\MainWindow.baml
+D:\D\其他\Move\Move\obj\Release\MainWindow.g.cs
+D:\D\其他\Move\Move\obj\Release\App.g.cs
+D:\D\其他\Move\Move\obj\Release\Move_MarkupCompile.cache
+D:\D\其他\Move\Move\obj\Release\Move.g.resources
+D:\D\其他\Move\Move\obj\Release\Move.Properties.Resources.resources
+D:\D\其他\Move\Move\obj\Release\Move.csproj.GenerateResource.Cache
+D:\D\其他\Move\Move\obj\Release\Move.exe
+D:\D\其他\Move\Move\obj\Release\Move.pdb

@@ -1,0 +1,13 @@
+D:\D\其他\Move\Move\bin\Debug\Move.exe.config
+D:\D\其他\Move\Move\bin\Debug\Move.exe
+D:\D\其他\Move\Move\bin\Debug\Move.pdb
+D:\D\其他\Move\Move\obj\Debug\MainWindow.baml
+D:\D\其他\Move\Move\obj\Debug\MainWindow.g.cs
+D:\D\其他\Move\Move\obj\Debug\App.g.cs
+D:\D\其他\Move\Move\obj\Debug\Move_MarkupCompile.cache
+D:\D\其他\Move\Move\obj\Debug\Move.g.resources
+D:\D\其他\Move\Move\obj\Debug\Move.Properties.Resources.resources
+D:\D\其他\Move\Move\obj\Debug\Move.csproj.GenerateResource.Cache
+D:\D\其他\Move\Move\obj\Debug\Move.exe
+D:\D\其他\Move\Move\obj\Debug\Move.pdb
+D:\D\其他\Move\Move\obj\Debug\Move.csprojResolveAssemblyReference.cache
